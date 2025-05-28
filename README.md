@@ -60,15 +60,6 @@ Theemwiz-Landing-Page/
 4. **Or simply open `index.html` directly in the browser.**
 
 
-
-## 🗀️ Screenshots
-
-| Desktop View                                    
-| -- 
-| ![Desktop](https://ibb.co/ym6f31GV) | 
-
-
-
 ## 📌 Future Enhancements
 
 * Add working navigation with scroll effects
