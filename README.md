@@ -2,13 +2,13 @@
 
 A **pixel-perfect**, fully responsive landing page developed using **HTML, CSS, JavaScript, and Bootstrap 5**. This project is a visual replica of a Figma design layout built for a frontend technical assignment.
 
----
+
 
 ## 📸 Live Preview
 
-🚀 **[Live Demo](https://github.com/shashitha18/Theemwiz_frontend_test)
+🚀 [Live Demo](https://github.com/shashitha18/Theemwiz_frontend_test)
 
----
+
 
 ## 📁 Project Structure
 
@@ -19,16 +19,14 @@ Theemwiz-Landing-Page/
 ├── index.css            # Custom CSS styling
 ```
 
----
+
 
 ## 🛠️ Tech Stack
 
 * ✅ **HTML5**
 * 🎨 **CSS3**
 * 🧹 **Bootstrap 5**
-* ⚡ **Vite** (for development server)
 
----
 
 ## 💡 Features
 
@@ -36,9 +34,7 @@ Theemwiz-Landing-Page/
 * 📱 Fully responsive layout (manual tweaks + Bootstrap)
 * 🎨 Clean and modern UI components
 * 💬 Modular and scalable CSS structure
-* 🚀 Fast development setup with Vite
 
----
 
 ## 🔍 How to Use
 
@@ -63,15 +59,15 @@ Theemwiz-Landing-Page/
 
 4. **Or simply open `index.html` directly in the browser.**
 
----
+
 
 ## 🗀️ Screenshots
 
 | Desktop View                                    
-| ----------------------------------------------- 
+| -- 
 | ![Desktop](https://ibb.co/ym6f31GV) | 
 
----
+
 
 ## 📌 Future Enhancements
 
@@ -79,13 +75,13 @@ Theemwiz-Landing-Page/
 * Animate hero section on load
 * Integrate contact form submission with validation
 
----
+
 
 ## ✨ Credits
 
 * **Figma Design**: Provided by Theemwiz Web Technologies
 * **Icons & Images**: As per the design 
----
+
 
 ## 🧑‍💻 Author
 
@@ -93,7 +89,7 @@ Theemwiz-Landing-Page/
 Frontend Developer & UI/UX Designer
 [Figma Community](https://www.figma.com/@shashitha) | [LinkedIn](https://www.linkedin.com/in/shashitha-p-37a157218/)
 
----
+
 
 ## 📓 License
 
