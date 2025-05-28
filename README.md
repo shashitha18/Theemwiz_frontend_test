@@ -17,8 +17,6 @@ Theemwiz-Landing-Page/
 │
 ├── index.html           # Main HTML structure
 ├── index.css            # Custom CSS styling
-├── package.json         # Project config & vite dev setup
-└── assets/              # (Optional) Images, fonts, icons
 ```
 
 ---
