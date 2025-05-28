@@ -6,7 +6,7 @@ A **pixel-perfect**, fully responsive landing page developed using **HTML, CSS, 
 
 ## 📸 Live Preview
 
-🚀 **[Live Demo](#)** – *(Replace `#` with your deployed link)*
+🚀 **[Live Demo](https://github.com/shashitha18/Theemwiz_frontend_test)
 
 ---
 
@@ -67,9 +67,9 @@ Theemwiz-Landing-Page/
 
 ## 🗀️ Screenshots
 
-| Desktop View                                    | Mobile View                                    |
-| ----------------------------------------------- | ---------------------------------------------- |
-| ![Desktop](https://via.placeholder.com/300x200) | ![Mobile](https://via.placeholder.com/200x400) |
+| Desktop View                                    
+| ----------------------------------------------- 
+| ![Desktop](https://ibb.co/ym6f31GV) | 
 
 ---
 
